@@ -86,4 +86,71 @@
 
 ## &#10023; Work Experience
 
-* 
+* Trainee Design Engineer
+<img src="https://user-images.githubusercontent.com/83652490/117561345-b6f3d600-b0b3-11eb-8ea6-1bd03f2f6a5c.png" align="right">
+
+> - OKTAL SYDAC SIMULATION TECHNOLOGIES PVT. LTD. PUNE -411057
+> - Mar 2019 - Apr 2020
+>   -	DEPARTMENT : CAD
+>   - Worked On CATIA Migration Project
+>   -	Giving Function Tolerancing And Annoataton to CATIA V5 Part Model
+>   -	Checking and reporting errors occurred during migration
+>   -	Documentation of the work done on of each model which includes the amount of work and the time required for that particular model
+
+
+---
+
+* Trainee Engineer
+> - Kulkarni Engineers Pune - 411 038
+> - Oct 2018 - Nov 2018
+>   - Department: QA
+>   - To approve the washers by checking the tolerances
+>   - To check the tolerance limit of the washers in production
+>   - To do the random sampling of the parts to give customer a proper washers
+>   
+
+---
+
+* Trainee Technician
+> * MAC VEHICLES PVT. LTD. YAVATMAL - 445001
+> * Sept 2018 – Oct 2018
+>   - 	To do the routine checking of coming vehicles
+>   - 	To do the servicing of vehicle 
+>   - 	To check the problem in vehicle and report them to the Senior Technician
+>   - 	To check the quality of car washing and report it to the manager about the status
+
+---
+
+## &#10023; Academic Projects
+* **DEGREE MEGA PROJECT TITLE: Design and Fabrication of Experimental Setup for Buckling Test on Column**
+> * SUMMERY: To check the different conditions of buckling under different end condition of specimen as per load. 
+> * Description:
+>   * This Project aim at an investigation of buckling behavior of columns under repetitive compressive loading. Buckling occurs when column has a tendency to deflect laterally, our of the line of action of the force. Once buckling initiates, the instability can lead to failure of the column, because the eccentric force acts as a moment causing greater stresses and deflections due to the combination of the bending and axial forces.
+>   * All parts subjected to pressure are susceptible to buckling. Thus, buckling test device has a great number of potential applications. The device can be used both by the instructor for demonstrations as well as by the trainee in laboratory experiments. Furthermore, basic technical testing skills such as deflection, slope and force measurement can be practiced.
+>   * In this project, a test specimen is clamped at both ends in the experimental setup, depending on the buckling case. A height-adjustable loading member and a hand-operated spindle are used to apply a compressive force on the test specimen. A angle measurement sensor(accelerometer) indicates the angle(Slope) through which the test specimen get deflected from its initial position.
+>   * Experiments demonstrate how various factors such as test specimen length, material and end support conditions affect the buckling behavior. Additional shear forces can be generated on the test bar by means of a lalteral load mechanism.
+
+---
+* **DEGREE MINI PROJECT TITLE: Hand Pump with Quick Return Mechanism**
+> * SUMMERY: To reduce the efforts require for pumping the water & drawing more water through hand pump.
+> * Description:
+>   * The main aim of our project was to design a hand pump which is employed with quick return mechanism.
+>   * The major problems associated with the simple hand pump were the high level of fatigue of the operator, and low pump capacity. These Problems motivated the design and fabrication of a manually operated hand pump that employs a quick-return mechanism and a gear drive in the power train to capacity. The system designed is basically a modification to reciprocating lift pumps. The modified pump is operated by the rotary movement of the handle with a quick return mechanism. Typical hand pumps require sufficiently large effort and an average person can use the pump continuously only for a short time, but the modified hand pump with which we tried to come up requries only minimum of the efforts, with minimal fatigue. The advantage of this invention compared to present hand pump solutions are: more water can be drawn manually with less efforts as compared to simple hand pump, for irrigation purpose bulls could also be employed to rotate the rotor by particular arrangement.
+>   
+---
+
+## &#10023; National Conference & Workshop
+> * Design and Fabrication of Experimental Setup for Buckling Test on Column in “Pratikruti-2018” at YCCE, Nagpur on March 14, 2018 
+> * Participated in National Workshop on “Automobile and Mechanics” on December 26-27, 2015 at IIT, Bombay
+
+
+---
+
+## &#10023; Contact:
+
+> * **Mail me:** vivek.chavhan8003@gmail.com
+> * **LinkedIn:** www.linkedin.com/in/vivekchavhan
+> * **Freelancer:** -
+
+---
+> P.S. I hereby declare that all the stated information is true and correct to the best of my knowledge and belief. 
