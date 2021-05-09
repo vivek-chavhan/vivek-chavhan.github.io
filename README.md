@@ -1,12 +1,11 @@
 #  Vivek Chavhan 
 
 ## &#10023; About Me:
+> <img src="https://user-images.githubusercontent.com/83652490/117559643-a851f280-b0a4-11eb-9813-e3d7b110e041.png" width="200px" align="right">
+> 
 > ### **Title:** A Mechanical CAD Designer. 
->  
+
 > Innovative. Industrious. Talented. Mechanical Engineer with proven track record in learning new design skills since graduating with a Mechanical Engineering degree in 2018. A communicative, encouraging team player who presents ideas effectively and is able to assist others in the latest procedures. Skilled in 3D CAD modelling.
-
-
-
 
 > Collaborative Design Engineer with 1 year and 1 month of experience leading in CAD modeling and product development. Considered valuable asset while contributing excellence in cross-functional project leadership to deliver products and solutions on-time and within budget. Collaborative team player with proven track record of delivering multiple, concurrent projects in fast-paced environments. Proficient in dominant software tools such as CAD, 2D and 3D design and Solid Modeling. Eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Motivated to learn, grow and excel in Mechanical Design Industry.
 > 
@@ -87,3 +86,4 @@
 
 ## &#10023; Work Experience
 
+* 
