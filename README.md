@@ -151,6 +151,9 @@
 > * **Mail me:** vivek.chavhan8003@gmail.com
 > * **LinkedIn:** www.linkedin.com/in/vivekchavhan
 > * **Freelancer:** -
-
+> * **Portfolio Website:** vivek-chavhan.github.io
+ ---
+## &#10023; Hire Me:
+> ![Vivek Header](https://user-images.githubusercontent.com/83652490/117562356-0211e700-b0bc-11eb-9cba-e56b4dea9a80.png)
 ---
 > P.S. I hereby declare that all the stated information is true and correct to the best of my knowledge and belief. 
